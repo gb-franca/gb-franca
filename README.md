@@ -1,11 +1,9 @@
 <h1 align="left">Olá, eu sou Gabriel França!</h1>
 
-###
-
 <br clear="both">
 
 <p align="left">-📍 Localização:  Rio Grande do Norte, Brasil.<br>-🏛️ Instituição: Instituto Metrópole Digital (IMD/UFRN)<br>-💻 Foco Atual: Desenvolvimento Web Full-Stack<br>-🎯 Objetivo de Carreira: Buscando minha primeira oportunidade como Desenvolvedor Júnior ou Estagiário.<br>-⚡ Hobbies: Quando não estou na frente do código, estou provavelmente jogando basquete com amigos, imerso em algum jogo de RPG ou procurando uma nova série para viciar.</p>
-
+ ##
 ###
 
 <br clear="both">

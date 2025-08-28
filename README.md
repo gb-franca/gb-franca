@@ -3,8 +3,6 @@
 <br clear="both">
 
 <p align="left">-📍 Localização:  Rio Grande do Norte, Brasil.<br>-🏛️ Instituição: Instituto Metrópole Digital (IMD/UFRN)<br>-💻 Foco Atual: Desenvolvimento Web Full-Stack<br>-🎯 Objetivo de Carreira: Buscando minha primeira oportunidade como Desenvolvedor Júnior ou Estagiário.<br>-⚡ Hobbies: Quando não estou na frente do código, estou provavelmente jogando basquete com amigos, imerso em algum jogo de RPG ou procurando uma nova série para viciar.</p>
- ##
-###
 
 <br clear="both">
 
@@ -14,8 +12,6 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
-
-###
 
 <br clear="both">
 
@@ -30,8 +26,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
-
-###
 
 <br clear="both">
 

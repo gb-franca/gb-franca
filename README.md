@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">💡 Apaixonado por tecnologia e pela busca de soluções que simplificam o dia a dia.<br><br>🎓 Estudante de Bacharelado em T.I. no Instituto Metrópole Digital (IMD/UFRN), onde estou construindo minha base como Desenvolvedor Full-Stack.<br><br>🌱 No momento, estou explorando o ecossistema JavaScript, com foco em aprimorar minhas habilidades em React.js e Node.js.<br><br>🚀 Buscando ativamente minha primeira oportunidade como Desenvolvedor Júnior ou Estagiário para colaborar, aprender e gerar valor.<br><br>⚡ Fora do código: Meu tempo livre se divide entre as quadras de basquete, o universo dos jogos de RPG e uma boa maratona de séries.</h4>
+<p align="left">💡 Apaixonado por tecnologia e pela busca de soluções que simplificam o dia a dia.<br><br>🎓 Estudante de Bacharelado em T.I. no Instituto Metrópole Digital (IMD/UFRN), onde estou construindo minha base como Desenvolvedor Full-Stack.<br><br>🌱 No momento, estou explorando o ecossistema JavaScript, com foco em aprimorar minhas habilidades em React.js e Node.js.<br><br>🚀 Buscando ativamente minha primeira oportunidade como Desenvolvedor Júnior ou Estagiário para colaborar, aprender e gerar valor.<br><br>⚡ Fora do código: Meu tempo livre se divide entre as quadras de basquete, o universo dos jogos de RPG e uma boa maratona de séries.</p>
 
 ###
 

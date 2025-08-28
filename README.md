@@ -1,8 +1,12 @@
 <h1 align="left">Olá, eu sou Gabriel França!</h1>
 
+###
+
 <br clear="both">
 
-<p align="left">-📍 Localização:  Rio Grande do Norte, Brasil.<br>-🏛️ Instituição: Instituto Metrópole Digital (IMD/UFRN)<br>-💻 Foco Atual: Desenvolvimento Web Full-Stack<br>-🎯 Objetivo de Carreira: Buscando minha primeira oportunidade como Desenvolvedor Júnior ou Estagiário.<br>-⚡ Hobbies: Quando não estou na frente do código, estou provavelmente jogando basquete com amigos, imerso em algum jogo de RPG ou procurando uma nova série para viciar.</p>
+<h4 align="left">-📍 Localização:  Rio Grande do Norte, Brasil.<br>-🏛️ Instituição: Instituto Metrópole Digital (IMD/UFRN)<br>-💻 Foco Atual: Desenvolvimento Web Full-Stack<br>-🎯 Objetivo de Carreira: Buscando minha primeira oportunidade como Desenvolvedor Júnior ou Estagiário.<br>-⚡ Hobbies: Quando não estou na frente do código, estou provavelmente jogando basquete com amigos, imerso em algum jogo de RPG ou procurando uma nova série para viciar.</h4>
+
+###
 
 <br clear="both">
 
@@ -12,6 +16,8 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
+
+###
 
 <br clear="both">
 
@@ -27,12 +33,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
+###
+
 <br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gb-franca&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gb-franca&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gb-franca&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
